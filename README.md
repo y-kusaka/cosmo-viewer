@@ -1,6 +1,6 @@
 # cosmo-viewer
 
-A Jupyter notebook for converting point cloud of segment data in .cosmo files to a .ply mesh. This reads atom and segment data of a .cosmo file (DMol3) and then converts to a common PLY format. You can read PLY files with Paraview for example. 
+A Jupyter notebook for converting point cloud of segment data in .cosmo files to a .ply mesh. This reads atom and segment data of a .cosmo file (DMol3) and then converts to a common PLY format. You can vizualize PLY files with Paraview and pyvista for example. 
 
 ## Dependencies
 
